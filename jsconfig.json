@@ -14,5 +14,5 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["app/**/*", "composables/**/*", "utils/**/*", "server/**/*", "plugins/**/*", "middleware/**/*", "constants/**/*", "nuxt.config.js"]
+  "include": ["app/**/*", "utils/**/*", "server/**/*", "plugins/**/*", "middleware/**/*", "constants/**/*", "nuxt.config.js"]
 }
